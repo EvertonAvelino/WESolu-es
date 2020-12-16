@@ -1,2 +1,2 @@
 # WESoluces 
-Site e desenvolvido em wordpress e a pagina da empresa WESolucoes
+Site desenvolvido em wordpress com alguns temas personalizadp  para a pagina da empresa WESolucoes
